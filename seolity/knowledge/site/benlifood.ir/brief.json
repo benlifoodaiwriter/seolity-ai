@@ -7,87 +7,195 @@
     "queries": [
         {
             "query": "طرز تهیه کیمچی در ایران",
-            "impressions": 476,
-            "clicks": 4,
-            "position": 7.9000000000000003552713678800500929355621337890625
-        },
-        {
-            "query": "بنلی فود",
-            "impressions": 468,
-            "clicks": 61,
-            "position": 1.100000000000000088817841970012523233890533447265625
-        },
-        {
-            "query": "benlifood",
-            "impressions": 318,
-            "clicks": 49,
-            "position": 1.1999999999999999555910790149937383830547332763671875
-        },
-        {
-            "query": "ساورکرات چیست",
-            "impressions": 242,
-            "clicks": 2,
-            "position": 8.199999999999999289457264239899814128875732421875
-        },
-        {
-            "query": "طرز تهیه کیمچی",
-            "impressions": 218,
-            "clicks": 4,
-            "position": 9
-        },
-        {
-            "query": "کیمچی چیست",
-            "impressions": 217,
-            "clicks": 3,
-            "position": 10.199999999999999289457264239899814128875732421875
-        },
-        {
-            "query": "خرید کیمچی",
-            "impressions": 216,
-            "clicks": 21,
-            "position": 12.300000000000000710542735760100185871124267578125
-        },
-        {
-            "query": "طرز تهیه کیمچی کلم",
-            "impressions": 125,
-            "clicks": 3,
-            "position": 8.0999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "خواص ساورکرات",
-            "impressions": 123,
-            "clicks": 4,
-            "position": 5.5999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "کیمچی",
-            "impressions": 121,
-            "clicks": 3,
-            "position": 15.199999999999999289457264239899814128875732421875
-        },
-        {
-            "query": "کیمچی طرز تهیه",
-            "impressions": 116,
-            "clicks": 2,
+            "impressions": 710,
+            "clicks": 5,
             "position": 8.300000000000000710542735760100185871124267578125
         },
         {
-            "query": "سبزیجات تخمیری برای لاغری",
-            "impressions": 80,
-            "clicks": 2,
-            "position": 6.0999999999999996447286321199499070644378662109375
+            "query": "طرز تهیه کیمچی",
+            "impressions": 701,
+            "clicks": 13,
+            "position": 9.4000000000000003552713678800500929355621337890625
         },
         {
-            "query": "تهیه کیمچی",
-            "impressions": 72,
+            "query": "بنلی فود",
+            "impressions": 527,
+            "clicks": 70,
+            "position": 1.100000000000000088817841970012523233890533447265625
+        },
+        {
+            "query": "کیمچی چیست",
+            "impressions": 464,
+            "clicks": 4,
+            "position": 9.5999999999999996447286321199499070644378662109375
+        },
+        {
+            "query": "benlifood",
+            "impressions": 405,
+            "clicks": 65,
+            "position": 1.100000000000000088817841970012523233890533447265625
+        },
+        {
+            "query": "ساورکرات چیست",
+            "impressions": 324,
+            "clicks": 5,
+            "position": 7.79999999999999982236431605997495353221893310546875
+        },
+        {
+            "query": "فلفل گوچوگارو",
+            "impressions": 298,
+            "clicks": 11,
+            "position": 6.9000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "خرید کیمچی",
+            "impressions": 290,
+            "clicks": 31,
+            "position": 12.5999999999999996447286321199499070644378662109375
+        },
+        {
+            "query": "طرز تهیه کیمچی کلم",
+            "impressions": 283,
+            "clicks": 14,
+            "position": 6.5
+        },
+        {
+            "query": "طرز تهیه کیمچی تخمیری",
+            "impressions": 231,
+            "clicks": 4,
+            "position": 8.9000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "کیمچی طرز تهیه",
+            "impressions": 209,
+            "clicks": 2,
+            "position": 8.5999999999999996447286321199499070644378662109375
+        },
+        {
+            "query": "خواص ساورکرات",
+            "impressions": 166,
+            "clicks": 6,
+            "position": 5.0999999999999996447286321199499070644378662109375
+        },
+        {
+            "query": "کیمچی",
+            "impressions": 162,
+            "clicks": 4,
+            "position": 15.5
+        },
+        {
+            "query": "گوجه کال",
+            "impressions": 124,
+            "clicks": 2,
+            "position": 4.5
+        },
+        {
+            "query": "فلفل کره ای",
+            "impressions": 120,
             "clicks": 3,
-            "position": 6.79999999999999982236431605997495353221893310546875
+            "position": 8.5
+        },
+        {
+            "query": "کیمچی ترب سفید",
+            "impressions": 99,
+            "clicks": 1,
+            "position": 7.5999999999999996447286321199499070644378662109375
+        },
+        {
+            "query": "ساورکرات",
+            "impressions": 98,
+            "clicks": 4,
+            "position": 8.4000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "سبزیجات تخمیری برای لاغری",
+            "impressions": 92,
+            "clicks": 2,
+            "position": 5.79999999999999982236431605997495353221893310546875
+        },
+        {
+            "query": "فلفل گوچوگارو دیجی کالا",
+            "impressions": 91,
+            "clicks": 5,
+            "position": 8.699999999999999289457264239899814128875732421875
         },
         {
             "query": "کیمچی کلم",
-            "impressions": 69,
+            "impressions": 91,
             "clicks": 2,
-            "position": 7.9000000000000003552713678800500929355621337890625
+            "position": 7.79999999999999982236431605997495353221893310546875
+        },
+        {
+            "query": "مواد کیمچی",
+            "impressions": 91,
+            "clicks": 0,
+            "position": 8.800000000000000710542735760100185871124267578125
+        },
+        {
+            "query": "تهیه کیمچی",
+            "impressions": 88,
+            "clicks": 3,
+            "position": 7.20000000000000017763568394002504646778106689453125
+        },
+        {
+            "query": "خرید ساورکرات",
+            "impressions": 82,
+            "clicks": 12,
+            "position": 7.4000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "مضرات غذاهای تخمیری",
+            "impressions": 81,
+            "clicks": 4,
+            "position": 6.4000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "مضرات کیمچی",
+            "impressions": 81,
+            "clicks": 8,
+            "position": 3.600000000000000088817841970012523233890533447265625
+        },
+        {
+            "query": "لایه سفید روی ترشی چیست",
+            "impressions": 80,
+            "clicks": 7,
+            "position": 5.4000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "طرز تهیه کیمچی با کاهو ایرانی",
+            "impressions": 80,
+            "clicks": 0,
+            "position": 9.5
+        },
+        {
+            "query": "طرز تهیه ساورکرات",
+            "impressions": 79,
+            "clicks": 1,
+            "position": 7.79999999999999982236431605997495353221893310546875
+        },
+        {
+            "query": "کیمچی هالین",
+            "impressions": 76,
+            "clicks": 1,
+            "position": 7
+        },
+        {
+            "query": "طرز تهیه کیمچی خیار",
+            "impressions": 72,
+            "clicks": 5,
+            "position": 3.100000000000000088817841970012523233890533447265625
+        },
+        {
+            "query": "گوچوگارو",
+            "impressions": 70,
+            "clicks": 3,
+            "position": 3.600000000000000088817841970012523233890533447265625
+        },
+        {
+            "query": "لیمو تخمیری",
+            "impressions": 70,
+            "clicks": 2,
+            "position": 7.0999999999999996447286321199499070644378662109375
         },
         {
             "query": "بن لی فود",
@@ -96,401 +204,293 @@
             "position": 1.600000000000000088817841970012523233890533447265625
         },
         {
-            "query": "ساورکرات",
-            "impressions": 64,
-            "clicks": 2,
+            "query": "جایگزین فلفل کره ای در کیمچی",
+            "impressions": 67,
+            "clicks": 1,
             "position": 8.5999999999999996447286321199499070644378662109375
         },
         {
-            "query": "خرید ساورکرات",
-            "impressions": 62,
-            "clicks": 10,
-            "position": 7.9000000000000003552713678800500929355621337890625
-        },
-        {
-            "query": "لیمو تخمیری",
-            "impressions": 61,
+            "query": "فلفل گوچوگارو چیست",
+            "impressions": 67,
             "clicks": 2,
-            "position": 7
+            "position": 3.70000000000000017763568394002504646778106689453125
         },
         {
-            "query": "کیمچی هالین",
-            "impressions": 61,
-            "clicks": 1,
-            "position": 6.9000000000000003552713678800500929355621337890625
-        },
-        {
-            "query": "طرز تهیه ساورکرات",
-            "impressions": 53,
-            "clicks": 0,
-            "position": 8
-        },
-        {
-            "query": "کیمچی ترب سفید",
-            "impressions": 52,
-            "clicks": 1,
-            "position": 7.20000000000000017763568394002504646778106689453125
-        },
-        {
-            "query": "مضرات غذاهای تخمیری",
-            "impressions": 51,
-            "clicks": 0,
-            "position": 7.70000000000000017763568394002504646778106689453125
-        },
-        {
-            "query": "مضرات کیمچی",
-            "impressions": 51,
-            "clicks": 4,
-            "position": 3.20000000000000017763568394002504646778106689453125
-        },
-        {
-            "query": "طرز تهیه کیمچی تخمیری",
-            "impressions": 51,
-            "clicks": 1,
-            "position": 9.199999999999999289457264239899814128875732421875
+            "query": "کیمچی کلم سفید",
+            "impressions": 65,
+            "clicks": 5,
+            "position": 3.79999999999999982236431605997495353221893310546875
         },
         {
             "query": "بن لی",
-            "impressions": 47,
-            "clicks": 10,
-            "position": 3.399999999999999911182158029987476766109466552734375
-        },
-        {
-            "query": "مواد کیمچی",
-            "impressions": 45,
-            "clicks": 0,
-            "position": 9
-        },
-        {
-            "query": "خواص ساورکرات کلم",
-            "impressions": 45,
-            "clicks": 0,
-            "position": 6.0999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "گوجه کال",
-            "impressions": 42,
-            "clicks": 1,
-            "position": 6.0999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "سس تند کره ای",
-            "impressions": 42,
-            "clicks": 1,
-            "position": 8.5
-        },
-        {
-            "query": "سیر تخمیری",
-            "impressions": 40,
-            "clicks": 0,
-            "position": 9.0999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "طرز تهیه کیمچی خیار",
-            "impressions": 39,
-            "clicks": 5,
-            "position": 3.5
-        },
-        {
-            "query": "کیمجی چیه",
-            "impressions": 38,
-            "clicks": 0,
-            "position": 10.0999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "لایه سفید روی ترشی چیست",
-            "impressions": 38,
-            "clicks": 4,
-            "position": 6.4000000000000003552713678800500929355621337890625
+            "impressions": 64,
+            "clicks": 15,
+            "position": 2.899999999999999911182158029987476766109466552734375
         },
         {
             "query": "کیمچی خیار",
-            "impressions": 38,
+            "impressions": 64,
+            "clicks": 4,
+            "position": 2.70000000000000017763568394002504646778106689453125
+        },
+        {
+            "query": "درست کردن کیمچی",
+            "impressions": 61,
+            "clicks": 2,
+            "position": 8.4000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "کیمچی جیگه",
+            "impressions": 60,
+            "clicks": 0,
+            "position": 4.20000000000000017763568394002504646778106689453125
+        },
+        {
+            "query": "فلفل کره ای گوچوگارو",
+            "impressions": 59,
+            "clicks": 2,
+            "position": 5.9000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "طرز تهیه کیمچی آسان",
+            "impressions": 58,
+            "clicks": 0,
+            "position": 9.800000000000000710542735760100185871124267578125
+        },
+        {
+            "query": "طرز تهیه پودر فلفل کره ای",
+            "impressions": 58,
+            "clicks": 2,
+            "position": 4.70000000000000017763568394002504646778106689453125
+        },
+        {
+            "query": "طرز تهیه کیمچی بدون سس سویا",
+            "impressions": 55,
             "clicks": 4,
             "position": 3.29999999999999982236431605997495353221893310546875
         },
         {
-            "query": "کیمچی خرید",
-            "impressions": 34,
-            "clicks": 2,
-            "position": 11.9000000000000003552713678800500929355621337890625
-        },
-        {
-            "query": "کیمچی جیگه",
-            "impressions": 32,
-            "clicks": 0,
-            "position": 4
-        },
-        {
-            "query": "کیمچی کلم سفید",
-            "impressions": 30,
-            "clicks": 4,
-            "position": 5.29999999999999982236431605997495353221893310546875
-        },
-        {
-            "query": "کیمچی غذای کدام کشور است",
-            "impressions": 29,
-            "clicks": 0,
-            "position": 8.9000000000000003552713678800500929355621337890625
-        },
-        {
-            "query": "آیا کیمچی حلال است",
-            "impressions": 28,
+            "query": "خواص ساورکرات کلم",
+            "impressions": 53,
             "clicks": 1,
-            "position": 6.5999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "ساور کرات چیست",
-            "impressions": 28,
-            "clicks": 0,
-            "position": 8.5
-        },
-        {
-            "query": "طرز تهیه کیمچی پروبیوتیک",
-            "impressions": 27,
-            "clicks": 1,
-            "position": 8.5
-        },
-        {
-            "query": "طرز تهیه کیمچی بدون سس سویا",
-            "impressions": 27,
-            "clicks": 4,
-            "position": 4.20000000000000017763568394002504646778106689453125
-        },
-        {
-            "query": "نشان سیب سلامت",
-            "impressions": 27,
-            "clicks": 0,
-            "position": 8.800000000000000710542735760100185871124267578125
-        },
-        {
-            "query": "جایگزین سس سویا در کیمچی",
-            "impressions": 26,
-            "clicks": 1,
-            "position": 8.699999999999999289457264239899814128875732421875
-        },
-        {
-            "query": "طعم کیمچی چگونه است",
-            "impressions": 24,
-            "clicks": 0,
-            "position": 5.9000000000000003552713678800500929355621337890625
-        },
-        {
-            "query": "کیمچی چیست طرز تهیه",
-            "impressions": 24,
-            "clicks": 1,
-            "position": 8.9000000000000003552713678800500929355621337890625
-        },
-        {
-            "query": "ترب سفید کره ای",
-            "impressions": 23,
-            "clicks": 0,
-            "position": 5.5999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "کیمچی چیه",
-            "impressions": 23,
-            "clicks": 0,
-            "position": 9.199999999999999289457264239899814128875732421875
-        },
-        {
-            "query": "هالین کیمچی",
-            "impressions": 22,
-            "clicks": 0,
-            "position": 7.5999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "ترشی کیمچی ایرانی",
-            "impressions": 21,
-            "clicks": 0,
-            "position": 9.199999999999999289457264239899814128875732421875
-        },
-        {
-            "query": "کیمچی با کلم سفید",
-            "impressions": 20,
-            "clicks": 1,
-            "position": 3.100000000000000088817841970012523233890533447265625
-        },
-        {
-            "query": "غذای کیمچی",
-            "impressions": 20,
-            "clicks": 0,
-            "position": 10.800000000000000710542735760100185871124267578125
-        },
-        {
-            "query": "طرز تهیه کیمچی ایرانی",
-            "impressions": 20,
-            "clicks": 1,
-            "position": 6.5999999999999996447286321199499070644378662109375
-        },
-        {
-            "query": "محصولات تخمیری",
-            "impressions": 20,
-            "clicks": 2,
-            "position": 18.199999999999999289457264239899814128875732421875
-        },
-        {
-            "query": "انواع ساورکرات",
-            "impressions": 20,
-            "clicks": 2,
             "position": 6.20000000000000017763568394002504646778106689453125
         },
         {
-            "query": "عامل ترشی سرکه",
-            "impressions": 19,
+            "query": "گوچوگارو چیست",
+            "impressions": 51,
+            "clicks": 2,
+            "position": 2.29999999999999982236431605997495353221893310546875
+        },
+        {
+            "query": "سس تند کره ای",
+            "impressions": 50,
+            "clicks": 1,
+            "position": 8.300000000000000710542735760100185871124267578125
+        },
+        {
+            "query": "جایگزین سس سویا در کیمچی",
+            "impressions": 50,
+            "clicks": 3,
+            "position": 7.4000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "آیا کیمچی حلال است",
+            "impressions": 48,
+            "clicks": 4,
+            "position": 6.0999999999999996447286321199499070644378662109375
+        },
+        {
+            "query": "جدول سدیم مواد غذایی",
+            "impressions": 47,
+            "clicks": 0,
+            "position": 9.0999999999999996447286321199499070644378662109375
+        },
+        {
+            "query": "سیر تخمیری",
+            "impressions": 45,
+            "clicks": 0,
+            "position": 9.9000000000000003552713678800500929355621337890625
+        },
+        {
+            "query": "کیمچی خرید",
+            "impressions": 43,
+            "clicks": 2,
+            "position": 12.300000000000000710542735760100185871124267578125
+        },
+        {
+            "query": "طرز تهیه ترشی کیمچی",
+            "impressions": 42,
+            "clicks": 1,
+            "position": 7.5
+        },
+        {
+            "query": "طعم کیمچی چگونه است",
+            "impressions": 40,
             "clicks": 0,
             "position": 6
         },
         {
-            "query": "طرز تهیه سس ماهی برای کیمچی",
-            "impressions": 19,
+            "query": "کیمجی چیه",
+            "impressions": 39,
             "clicks": 0,
-            "position": 7.20000000000000017763568394002504646778106689453125
+            "position": 10.300000000000000710542735760100185871124267578125
         },
         {
-            "query": "طرز تهیه سس کیمچی",
-            "impressions": 19,
-            "clicks": 1,
-            "position": 9.699999999999999289457264239899814128875732421875
-        },
-        {
-            "query": "مواد لازم برای کیمچی",
-            "impressions": 19,
+            "query": "ترشی کیمچی ایرانی",
+            "impressions": 39,
             "clicks": 0,
-            "position": 9
+            "position": 9.300000000000000710542735760100185871124267578125
         },
         {
-            "query": "فواید ساورکرات",
-            "impressions": 17,
+            "query": "طرز تهیه کیمچی با کلم سفید",
+            "impressions": 38,
+            "clicks": 4,
+            "position": 2.79999999999999982236431605997495353221893310546875
+        },
+        {
+            "query": "طرز تهیه کیمچی ترب سفید",
+            "impressions": 38,
             "clicks": 1,
-            "position": 5.29999999999999982236431605997495353221893310546875
+            "position": 7.0999999999999996447286321199499070644378662109375
+        },
+        {
+            "query": "کیمچی غذای کدام کشور است",
+            "impressions": 36,
+            "clicks": 0,
+            "position": 8.800000000000000710542735760100185871124267578125
+        },
+        {
+            "query": "طرز تهیه کیم چی",
+            "impressions": 36,
+            "clicks": 1,
+            "position": 8.699999999999999289457264239899814128875732421875
         }
     ],
     "pages": [
         {
             "url": "https://benlifood.ir/blog/kimchi-recipe-at-home/",
             "title": "",
-            "impressions": 1324
+            "impressions": 2856
+        },
+        {
+            "url": "https://benlifood.ir/%DA%AF%D9%88%DA%86%D9%88%DA%AF%D8%A7%D8%B1%D9%88-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F-%D8%B1%D8%A7%D8%B2-%D8%A7%D8%B5%D9%84%DB%8C-%D8%B7%D8%B9%D9%85-%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%DA%A9%D8%B1%D9%87/",
+            "title": "گوچوگارو چیست؟ راز اصلی طعم کیمچی کره‌ای",
+            "impressions": 1106
         },
         {
             "url": "https://benlifood.ir/%DA%A9%DB%8C%D9%85%DA%86%DB%8C%D8%9B-%D8%A7%D8%B2-%D8%BA%D8%B0%D8%A7%DB%8C-%D8%B3%D9%86%D8%AA%DB%8C-%DA%A9%D8%B1%D9%87%D8%A7%DB%8C-%D8%AA%D8%A7-%D8%B3%D9%88%D9%BE%D8%B1%D9%81%D9%88%D8%AF/",
             "title": "کیمچی چیست؟ غذای کدام کشور است + طعم، خواص، کالری و انواع",
-            "impressions": 502
-        },
-        {
-            "url": "https://benlifood.ir/product/%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%A7%D8%B5%D9%84/",
-            "title": "کیمچی اصل",
-            "impressions": 258
-        },
-        {
-            "url": "https://benlifood.ir/product-category/kimchi/",
-            "title": "",
-            "impressions": 215
-        },
-        {
-            "url": "https://benlifood.ir/%D8%B3%D8%A7%D9%88%D8%B1%DA%A9%D8%B1%D8%A7%D8%AA-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F-%D8%B7%D8%B9%D9%85%D8%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%88-%D8%B1%D9%88%D8%B4-%D9%85%D8%B5%D8%B1%D9%81-%DA%A9%D9%84/",
-            "title": "",
-            "impressions": 196
-        },
-        {
-            "url": "https://benlifood.ir/",
-            "title": "بن لی فود",
-            "impressions": 193
-        },
-        {
-            "url": "https://benlifood.ir/%D8%B3%D8%A7%D9%88%D8%B1%DA%A9%D8%B1%D8%A7%D8%AA-%D8%AE%D9%88%D8%A7%D8%B5%D8%8C-%D9%85%D8%B6%D8%B1%D8%A7%D8%AA-%D9%88-%D9%86%DA%A9%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1%D9%81-%D8%B1%D8%A7%D9%87%D9%86%D9%85/",
-            "title": "خواص ساورکرات؛ فواید برای روده، لاغری و پوست + مضرات و نکات مصرف",
-            "impressions": 181
-        },
-        {
-            "url": "https://benlifood.ir/product-category/saverkrat/",
-            "title": "",
-            "impressions": 138
-        },
-        {
-            "url": "https://benlifood.ir/blog/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%A8%D8%A7-%DA%A9%D9%84%D9%85-%D8%B3%D9%81%DB%8C%D8%AF/",
-            "title": "",
-            "impressions": 137
-        },
-        {
-            "url": "https://benlifood.ir/shop/",
-            "title": "",
-            "impressions": 124
-        },
-        {
-            "url": "https://benlifood.ir/about-us/",
-            "title": "درباره ما",
-            "impressions": 106
-        },
-        {
-            "url": "https://benlifood.ir/blog/%D8%B3%D8%A7%D9%88%D8%B1%DA%A9%D8%B1%D8%A7%D8%AA-%D8%AE%D9%88%D8%A7%D8%B5-%D9%85%D8%B6%D8%B1%D8%A7%D8%AA-%D9%88-%D9%86%DA%A9%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1%D9%81-%D8%B1%D8%A7%D9%87%D9%86%D9%85/",
-            "title": "",
-            "impressions": 90
-        },
-        {
-            "url": "https://benlifood.ir/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%AA%D8%B1%D8%A8/",
-            "title": "طرز تهیه کیمچی ترب سفید (کاکتوگی)؛ دستور کره‌ای ترد با نکات تخمیر و انتخاب ترب مناسب",
-            "impressions": 84
-        },
-        {
-            "url": "https://benlifood.ir/blog/sauerkraut-recipe-at-home/",
-            "title": "",
-            "impressions": 81
-        },
-        {
-            "url": "https://benlifood.ir/%D8%B1%DA%98%DB%8C%D9%85-%D9%84%D8%A7%D8%BA%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%B3%D8%A7%D9%88%D8%B1%DA%A9%D8%B1%D8%A7%D8%AA%D8%9B-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A8%D8%A7-%DA%A9%D9%84%D9%85-%D8%B4%D9%88/",
-            "title": "رژیم لاغری با ساورکرات؛ چگونه با کلم شور تخمیری چربی‌سوزی کنیم؟",
-            "impressions": 80
-        },
-        {
-            "url": "https://benlifood.ir/%D9%85%D8%B5%D8%B1%D9%81-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%DA%A9%DB%8C%D9%85%DA%86%DB%8C%D8%9B-%D8%A2%DB%8C%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C-%D9%85%D9%81%DB%8C/",
-            "title": "مصرف روزانه کیمچی؛ آیا برای سلامتی مفید است یا مضر؟",
-            "impressions": 77
-        },
-        {
-            "url": "https://benlifood.ir/product/%DA%AF%D9%88%D8%AC%D9%87-%DA%A9%D8%A7%D9%84-%D8%AA%D8%AE%D9%85%DB%8C%D8%B1%DB%8C/",
-            "title": "گوجه کال",
-            "impressions": 76
-        },
-        {
-            "url": "https://benlifood.ir/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B1/",
-            "title": "طرز تهیه کیمچی خیار کره‌ای؛ اوی‌سوبگی ترد در خانه",
-            "impressions": 72
+            "impressions": 830
         },
         {
             "url": "https://benlifood.ir/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%A8%D8%A7-%DA%A9%D9%84%D9%85-%D8%B3%D9%81%DB%8C%D8%AF/",
             "title": "طرز تهیه کیمچی با کلم سفید؛ نسخه ایرانی کیمچی کره‌ای با مواد بازار و جایگزین‌های مطمئن",
-            "impressions": 72
+            "impressions": 353
+        },
+        {
+            "url": "https://benlifood.ir/%D8%B3%D8%A7%D9%88%D8%B1%DA%A9%D8%B1%D8%A7%D8%AA-%D8%AE%D9%88%D8%A7%D8%B5%D8%8C-%D9%85%D8%B6%D8%B1%D8%A7%D8%AA-%D9%88-%D9%86%DA%A9%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1%D9%81-%D8%B1%D8%A7%D9%87%D9%86%D9%85/",
+            "title": "خواص ساورکرات؛ فواید، مضرات، تاریخچه و روش نگهداری بعد از باز کردن",
+            "impressions": 331
+        },
+        {
+            "url": "https://benlifood.ir/product-category/kimchi/",
+            "title": "",
+            "impressions": 307
+        },
+        {
+            "url": "https://benlifood.ir/product/%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%A7%D8%B5%D9%84/",
+            "title": "کیمچی اصل",
+            "impressions": 268
+        },
+        {
+            "url": "https://benlifood.ir/",
+            "title": "بن لی فود",
+            "impressions": 225
+        },
+        {
+            "url": "https://benlifood.ir/%D8%B3%D8%A7%D9%88%D8%B1%DA%A9%D8%B1%D8%A7%D8%AA-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F-%D8%B7%D8%B9%D9%85%D8%8C-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%88-%D8%B1%D9%88%D8%B4-%D9%85%D8%B5%D8%B1%D9%81-%DA%A9%D9%84/",
+            "title": "",
+            "impressions": 214
+        },
+        {
+            "url": "https://benlifood.ir/product/%DA%AF%D9%88%D8%AC%D9%87-%DA%A9%D8%A7%D9%84-%D8%AA%D8%AE%D9%85%DB%8C%D8%B1%DB%8C/",
+            "title": "گوجه کال",
+            "impressions": 203
+        },
+        {
+            "url": "https://benlifood.ir/kimchi-recipe-at-home/",
+            "title": "طرز تهیه کیمچی خانگی ساده؛ مواد لازم، مراحل و نکات تخمیر موفق",
+            "impressions": 179
+        },
+        {
+            "url": "https://benlifood.ir/product-category/saverkrat/",
+            "title": "",
+            "impressions": 171
+        },
+        {
+            "url": "https://benlifood.ir/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%AA%D8%B1%D8%A8/",
+            "title": "طرز تهیه کیمچی ترب سفید (کاکتوگی)؛ دستور کره‌ای ترد با نکات تخمیر و انتخاب ترب مناسب",
+            "impressions": 168
+        },
+        {
+            "url": "https://benlifood.ir/shop/",
+            "title": "",
+            "impressions": 154
+        },
+        {
+            "url": "https://benlifood.ir/blog/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%A8%D8%A7-%DA%A9%D9%84%D9%85-%D8%B3%D9%81%DB%8C%D8%AF/",
+            "title": "",
+            "impressions": 143
+        },
+        {
+            "url": "https://benlifood.ir/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%AE%DB%8C%D8%A7%D8%B1/",
+            "title": "طرز تهیه کیمچی خیار کره‌ای؛ اوی‌سوبگی ترد در خانه",
+            "impressions": 136
+        },
+        {
+            "url": "https://benlifood.ir/about-us/",
+            "title": "درباره ما",
+            "impressions": 113
+        },
+        {
+            "url": "https://benlifood.ir/product/%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D9%85%DB%8C%DA%A9%D8%B3/",
+            "title": "کیمچی میکس",
+            "impressions": 112
+        },
+        {
+            "url": "https://benlifood.ir/blog/%D8%B3%D8%A7%D9%88%D8%B1%DA%A9%D8%B1%D8%A7%D8%AA-%D8%AE%D9%88%D8%A7%D8%B5-%D9%85%D8%B6%D8%B1%D8%A7%D8%AA-%D9%88-%D9%86%DA%A9%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1%D9%81-%D8%B1%D8%A7%D9%87%D9%86%D9%85/",
+            "title": "",
+            "impressions": 111
+        },
+        {
+            "url": "https://benlifood.ir/blog/sauerkraut-recipe-at-home/",
+            "title": "",
+            "impressions": 103
+        },
+        {
+            "url": "https://benlifood.ir/%D9%85%D8%B5%D8%B1%D9%81-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%DA%A9%DB%8C%D9%85%DA%86%DB%8C%D8%9B-%D8%A2%DB%8C%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C-%D9%85%D9%81%DB%8C/",
+            "title": "مصرف روزانه کیمچی؛ آیا برای سلامتی مفید است یا مضر؟",
+            "impressions": 97
+        },
+        {
+            "url": "https://benlifood.ir/%D8%B1%DA%98%DB%8C%D9%85-%D9%84%D8%A7%D8%BA%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%B3%D8%A7%D9%88%D8%B1%DA%A9%D8%B1%D8%A7%D8%AA%D8%9B-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A8%D8%A7-%DA%A9%D9%84%D9%85-%D8%B4%D9%88/",
+            "title": "رژیم لاغری با ساورکرات؛ چگونه با کلم شور تخمیری چربی‌سوزی کنیم؟",
+            "impressions": 92
+        },
+        {
+            "url": "https://benlifood.ir/sauerkraut-recipe-at-home/",
+            "title": "طرز تهیه ساورکرات خانگی در ۷ مرحله؛ نسبت نمک، زمان تخمیر و رفع اشکال",
+            "impressions": 88
         },
         {
             "url": "https://benlifood.ir/product/%D8%AA%D8%B1%D8%B4%DB%8C-%D8%AA%D8%AE%D9%85%DB%8C%D8%B1%DB%8C-%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%DA%A9%D9%84%D9%85-%D9%BE%DB%8C%DA%86/",
             "title": "کیمچی کلم پیچ",
-            "impressions": 71
+            "impressions": 84
         },
         {
-            "url": "https://benlifood.ir/product/%D9%84%DB%8C%D9%85%D9%88-%D8%B3%D8%A8%D8%B2%DB%8C%D8%AC%D8%A7%D8%AA/",
-            "title": "لیمو سیر تخمیری",
-            "impressions": 69
-        },
-        {
-            "url": "https://benlifood.ir/product/%D8%B3%D8%B3-%D8%AA%D9%86%D8%AF-%DA%A9%D8%B1%D9%87-%D8%A7%DB%8C-%DA%AF%D9%88%DA%86%D9%88%DA%AF%D8%A7%D8%B1%D9%88/",
-            "title": "سس گوچارو",
-            "impressions": 60
-        },
-        {
-            "url": "https://benlifood.ir/%D9%86%D8%B4%D8%A7%D9%86-%D8%B3%DB%8C%D8%A8-%D8%B3%D9%84%D8%A7%D9%85%D8%AA/",
-            "title": "نشان سیب سلامت چیست و چه تضمینی برای غذای تخمیری می‌دهد؟ راهنمای استعلام اصالت کیمچی و ساورکرات",
-            "impressions": 55
-        },
-        {
-            "url": "https://benlifood.ir/product-category/health-oriented-products/",
-            "title": "",
-            "impressions": 52
-        },
-        {
-            "url": "https://benlifood.ir/sauerkraut-recipe-at-home/",
-            "title": "طرز تهیه ساورکرات خانگی؛ آموزش قدم‌به‌قدم کلم تخمیری در ۷ مرحله",
-            "impressions": 47
+            "url": "https://benlifood.ir/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C-%D9%86%D9%85%DA%A9-%D9%88-%DA%A9%D9%BE%DA%A9-%D8%AF%D8%B1-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%AA%D8%AE%D9%85%DB%8C/",
+            "title": "لایه سفید روی ترشی و خیارشور چیست؟ تفاوت نمک و کپک در محصولات تخمیری",
+            "impressions": 84
         }
     ],
     "focus_keywords": [
@@ -506,14 +506,14 @@
         "فلفل تخمیری",
         "تربچه تخمیری",
         "خرید ساورکرات",
-        "لیمو تخمیری",
+        "لیمو تخمیری,ترشی سیر تخمیری",
         "خیارشور ممتاز,خیارشور کوچک",
         "ساورکرات کلم بنفش,ساورکرات ارغوانی",
         "ساورکرات طلایی",
         "کیمچی اصل",
         "کیمچی آتشین",
         "خرید کیمچی تند",
-        "محصولات تخمیری",
+        "بنلی فود,benlifood,سایت بنلی,بن لی,بن لی فود",
         "درباره بن‌لی",
         "تماس با بن‌لی",
         "محصولات سلامت محور",
@@ -524,8 +524,9 @@
         "کیمچی بن‌لی",
         "وبلاگ غذاهای تخمیری",
         "ساورکرات بن‌لی",
-        "کیمچی چیست",
+        "کیمچی چیست,کیمجی چیه,کیمچی غذای کدام کشور است,طعم کیمچی,کیمچی چیه",
         "تفاوت کیمچی اصل با بازاری",
+        "محصولات تخمیری",
         "ساورکرات اصل",
         "نگهداری محصولات تخمیری",
         "غذای تخمیری بدون نگهدارنده",
@@ -548,12 +549,11 @@
         "مصرف ساورکرات",
         "مصرف روزانه کیمچی",
         "غذاهای تخمیری و رژیم",
-        "لایه سفید روی ترشی",
+        "لایه سفید روی ترشی چیست,کپک سفید روی ترشی اشکال دارد یا نه",
         "کیمچی و میکروپلاستیک",
         "تخمیر طبیعی یا سرکه",
-        "اشتباهات مصرف غذاهای تخمیری",
-        "ماندگاری ساورکرات",
-        "فرق کاهو چینی با کاهو معمولی"
+        "روش صحیح مصرف غذاهای تخمیری",
+        "ماندگاری ساورکرات"
     ],
     "competitors": [
         "haleen.ir",
@@ -574,7 +574,7 @@
         "https://snaptorshi.ir/page/35/%DA%A9%DB%8C%D9%85%DA%86%DB%8C-%D8%AA%D8%B1%D8%A8-%D8%A8%D8%A7-%D9%82%D8%A7%D8%B1%D8%AC-%DA%AF%D8%A7%D9%86%D9%88%D8%AF%D8%B1%D9%85%D8%A7-%D8%B9%D9%86%D8%B5%D8%B1-%D8%A7%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A2%D9%85%DB%8C%D8%B2-%DA%98%D8%B1%D9%85%D8%A7%D9%86%DB%8C%D9%88%D9%85-%D8%A7%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%DA%A9/",
         "https://kimchibanoo.ir/shop/نودل-های-کره-ای-ژاپنی-نودل-تند-با-طعم-های-مختلف-و-آرم-حلال/P2134-اگ-نودل-بزرگ-تخم-مرغی.html",
         "https://kimchibanoo.ir/shop/سس-اصلی-کره-ای-سس-تند-سس-کربونارا-سس-بولداک-سمیانگ-سس-لوبیا-سیاه-سس-سویا/P1071-سس-لوبیا-سیاه-غلیظ.html",
-        "https://kimchibanoo.ir/shop/سوشی-مواد-اولیه/P1430-واسابی-پودری.html"
+        "https://kimchibanoo.ir/shop/فروش-انواع-قارچ-خارجی-انوکی-شیتاکه/P2273-قارچ-انوکی-خشک-بزرگ.html"
     ],
-    "generated": "2026-10-29T15:31:47+00:00"
+    "generated": "2026-11-09T13:57:06+00:00"
 }
