@@ -3,8 +3,8 @@
 # from a site ("Collect knowledge now"), from that site's Search Console data and competitors.
 # Writes Markdown to seolity/knowledge/ which SEOlity syncs and injects into its AI prompts.
 #
-# AI access (first available): ANTHROPIC_API_KEY, CLAUDE_CODE_OAUTH_TOKEN (Claude Pro/Max)
-# or CODEX_AUTH_JSON (ChatGPT) — the subscription secrets are added automatically when you
+# AI access (first available, a subscription before a paid key): CLAUDE_CODE_OAUTH_TOKEN (Claude Pro/Max),
+# CODEX_AUTH_JSON (ChatGPT) or ANTHROPIC_API_KEY — the subscription secrets are added automatically when you
 # deploy subscription AI into the same repository.
 name: SEOlity knowledge builder
 
@@ -51,9 +51,9 @@ jobs:
       - name: Install the AI tool for the available account
         working-directory: seolity/tools/knowledge-builder
         run: |
-          if [ -n "$ANTHROPIC_API_KEY" ]; then npm install --no-audit --no-fund
-          elif [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then npm install -g @anthropic-ai/claude-code && claude --version
+          if [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then npm install -g @anthropic-ai/claude-code && claude --version
           elif [ -n "$CODEX_AUTH_JSON" ]; then npm install -g @openai/codex && codex --version
+          elif [ -n "$ANTHROPIC_API_KEY" ]; then npm install --no-audit --no-fund
           else echo "No AI secret found – see the summary."; fi
 
       - name: Collect and distil knowledge

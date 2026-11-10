@@ -1,10 +1,12 @@
 /**
  * Model access for the SEOlity knowledge builder.
  *
- * Picks the first engine that has credentials (or KB_ENGINE):
- *   api    – Anthropic API (ANTHROPIC_API_KEY), native JSON-schema output
+ * Picks the first engine that has credentials (or KB_ENGINE). A subscription is preferred over a
+ * pay-per-token key: an old ANTHROPIC_API_KEY secret without credit must never win over a working
+ * Claude Pro/Max or ChatGPT subscription.
  *   claude – Claude Code with a Claude Pro/Max subscription (CLAUDE_CODE_OAUTH_TOKEN)
  *   codex  – OpenAI Codex with a ChatGPT login (CODEX_AUTH_JSON)
+ *   api    – Anthropic API (ANTHROPIC_API_KEY), native JSON-schema output
  * so the same workflow runs whether the site owner has an API key or only a subscription.
  */
 import { spawn } from 'node:child_process';
@@ -66,14 +68,14 @@ export function pickEngine() {
 	if ( wanted !== 'auto' ) {
 		return wanted;
 	}
-	if ( E.ANTHROPIC_API_KEY ) {
-		return 'api';
-	}
 	if ( E.CLAUDE_CODE_OAUTH_TOKEN ) {
 		return 'claude';
 	}
 	if ( E.CODEX_AUTH_JSON ) {
 		return 'codex';
+	}
+	if ( E.ANTHROPIC_API_KEY ) {
+		return 'api';
 	}
 	return '';
 }

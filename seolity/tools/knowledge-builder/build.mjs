@@ -366,7 +366,7 @@ async function main() {
 			state[ key ] = { hash, updated: date, model, tokens: usage };
 			report.push( `| ${ key } | updated (${ data.sections.length } sections) |` );
 		} catch ( e ) {
-			if ( /authentication|invalid (x-api-key|api key|token)|401|unauthorized|not logged in/i.test( e.message ) ) {
+			if ( /authentication|invalid (x-api-key|api key|token)|401|unauthorized|not logged in|credit balance|billing|quota|usage limit/i.test( e.message ) ) {
 				throw e; // Fatal: every request would fail.
 			}
 			report.push( `| ${ key } | AI failed: ${ e.message } |` );
